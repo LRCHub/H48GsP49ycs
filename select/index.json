@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Make Time for Me",
+  "base_artist": "L. Boogie",
+  "createdAt": "2025-12-01T03:07:44.366110Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Make Her Look Dumb",
+      "artist": "Maddie & Tae feat. Morgane Stapleton",
+      "has_synced": true,
+      "path": "select/01_Don't_Make_Her_Look_Dumb_Maddie_&_Tae_feat._Morgane_Stapleton.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Make Her Look Dumb",
+      "artist": "Maddie & Tae",
+      "has_synced": true,
+      "path": "select/02_Don't_Make_Her_Look_Dumb_Maddie_&_Tae.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Kind of Love We Make",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/03_The_Kind_of_Love_We_Make_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Kind of Love We Make",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/04_The_Kind_of_Love_We_Make_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "'Til I Can Make It On My Own",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/05_'Til_I_Can_Make_It_On_My_Own_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "'Til I Can Make It on My Own",
+      "artist": "Tammy Wynette",
+      "has_synced": false,
+      "path": "select/06_'Til_I_Can_Make_It_on_My_Own_Tammy_Wynette.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Come In (But Don't Make Yourself Comfortable)",
+      "artist": "Caroline Jones",
+      "has_synced": true,
+      "path": "select/07_Come_In_(But_Don't_Make_Yourself_Comfortable)_Caroline_Jones.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Do I Make You Wanna",
+      "artist": "Billy Currington",
+      "has_synced": true,
+      "path": "select/08_Do_I_Make_You_Wanna_Billy_Currington.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Do You Wanna Make Something Of It",
+      "artist": "Jo Dee Messina",
+      "has_synced": true,
+      "path": "select/09_Do_You_Wanna_Make_Something_Of_It_Jo_Dee_Messina.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't It Make My Brown Eyes Blue",
+      "artist": "Crystal Gayle",
+      "has_synced": true,
+      "path": "select/10_Don't_It_Make_My_Brown_Eyes_Blue_Crystal_Gayle.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don't It Make My Brown Eyes Blue",
+      "artist": "Crystal Gayle",
+      "has_synced": true,
+      "path": "select/11_Don't_It_Make_My_Brown_Eyes_Blue_Crystal_Gayle.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't It Make You Wanna Dance?",
+      "artist": "Jerry Jeff Walker",
+      "has_synced": false,
+      "path": "select/12_Don't_It_Make_You_Wanna_Dance_Jerry_Jeff_Walker.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don't Make It Easy for Me",
+      "artist": "Earl Thomas Conley",
+      "has_synced": true,
+      "path": "select/13_Don't_Make_It_Easy_for_Me_Earl_Thomas_Conley.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Help Me Make It Through The Night",
+      "artist": "Sammi Smith",
+      "has_synced": true,
+      "path": "select/14_Help_Me_Make_It_Through_The_Night_Sammi_Smith.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Help Me Make It Through The Night",
+      "artist": "Sammi Smith",
+      "has_synced": true,
+      "path": "select/15_Help_Me_Make_It_Through_The_Night_Sammi_Smith.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Help Me Make It Through The Night",
+      "artist": "Kris Kristofferson",
+      "has_synced": true,
+      "path": "select/16_Help_Me_Make_It_Through_The_Night_Kris_Kristofferson.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Help Me Make It Through The Night (Album Version)",
+      "artist": "Kris Kristofferson",
+      "has_synced": true,
+      "path": "select/17_Help_Me_Make_It_Through_The_Night_(Album_Version)_Kris_Kristofferson.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Help Me Make It Through the Night",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/18_Help_Me_Make_It_Through_the_Night_Willie_Nelson.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "Make Time for Me",
+      "artist": "L. Boogie",
+      "has_synced": false,
+      "path": "select/pl_Make_Time_for_Me_L._Boogie.txt"
+    }
+  ]
+}
